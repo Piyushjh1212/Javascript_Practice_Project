@@ -1,0 +1,1 @@
+JavaScript Basics 1  = Function understand
